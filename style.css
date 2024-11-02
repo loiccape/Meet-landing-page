@@ -209,7 +209,13 @@ footer > .footerTextContent > p{
 
 @media only screen and (min-device-width : 768px){
 
+    nav{
+        margin-top: 80px;
+    }
+    
     header {
+        margin-top: 64px;
+        margin-bottom: 64px;
         display: grid;
         grid-template-columns: repeat(3,1fr);
         grid-template-rows: 1;
