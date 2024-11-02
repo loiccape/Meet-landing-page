@@ -270,6 +270,10 @@ footer > .footerTextContent > p{
         font-size: 18px;
       }
 
+      footer{
+
+        margin-top: 70px;
+      }
       footer > .footerTextContent {
         width: 80%;
         flex-direction: row;
