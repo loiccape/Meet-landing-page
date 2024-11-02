@@ -246,6 +246,10 @@ footer > .footerTextContent > p{
         flex-direction: row;
     }
 
+
+    main{
+        margin-top: 120px;
+    }
     main > .mainContent > .imageContent{
         width: 1120px;
         grid-template-columns: repeat(4,1fr);
